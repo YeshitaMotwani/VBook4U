@@ -240,7 +240,3 @@ npm run dev
 - [bcrypt.js Docs](https://github.com/kelektiv/node.bcrypt.js)
 - [Bootstrap Docs](https://getbootstrap.com/)
 ```
-
----
-
-Let me know if you want a `README.md` file exported or formatted for GitHub, PDF, or Word!
