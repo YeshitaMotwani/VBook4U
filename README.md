@@ -177,6 +177,48 @@ npm run dev
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/HomePage.png)
+
+### 🔐 Login as User
+![Login as User](./screenshots/LoginAsUser.png)
+
+### 🔐 Login as Admin
+![Login as Admin](./screenshots/LoginAsAdmin.png)
+
+### 📝 Signup Page
+![Signup Page](./screenshots/SignupPage.png)
+
+### 👤 User Dashboard
+![User Dashboard](./screenshots/UserDashboard.png)
+
+### 🛒 Booking Page
+![Booking Page](./screenshots/BookingPage.png)
+
+### ✅ Booking Confirmation
+![Booking Confirmation](./screenshots/BookingConfirmation.png)
+
+### 🧾 Booking Summary
+![Booking Summary](./screenshots/BookingSummary.png)
+
+### 🎫 Proceed to Seat Selection
+![Proceed to Seat Selection](./screenshots/ProceedToSeatSelection.png)
+
+### 🧑‍💼 Admin Dashboard
+![Admin Dashboard](./screenshots/AdminDashboard.png)
+
+### ➕ Create Event Page
+![Create Event](./screenshots/CreateEvent.png)
+
+### 👥 About Us
+![About Us](./screenshots/AboutUs.png)
+
+### 🔓 Home Page After Login
+![Home Page After Login](./screenshots/HomePageAfterLogin.png)
+
+
 ## 📈 Future Enhancements
 - Payment gateway integration (e.g., Stripe/Razorpay)
 - Email/SMS booking confirmation
